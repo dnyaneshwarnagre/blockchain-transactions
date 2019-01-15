@@ -5,7 +5,7 @@ In this app I called two public API's and display data into tables inside dashbo
 # Deployment 
 Deploying this app publicly I used [heroku] cloud platform.
 # Heroku Installation 
-Required node and git install on your system. follow [heroku installtion]  steps
+Required node and git install on your system. follow [heroku installtion]  steps.
 You can now visit this app at [blockchain-transaction-app]
 
    [heroku]: <https://www.heroku.com/>

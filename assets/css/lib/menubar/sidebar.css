@@ -12,7 +12,7 @@
     top: 0px;
     left: 0;
     bottom: 0;
-    width: 250px;
+    width: 120px;
     background: #343957;
     /* font-size: 14px; */
     z-index: 100;
@@ -299,7 +299,7 @@ body {
 /* Show with Shrink content */
 
 .sidebar.sidebar-shrink~.content-wrap {
-    margin-left: 250px;
+    margin-left: 120px;
     -webkit-transition: margin-left 300ms ease-in-out;
     transition: margin-left 300ms ease-in-out;
 }

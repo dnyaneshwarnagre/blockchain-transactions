@@ -702,7 +702,7 @@ a.dt-button.active:not(.disabled) {
 .header {
   background: #ffffff;
   z-index: 990;
-  margin-left: 250px;
+  margin-left: 120px;
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
   transition: margin-left 300ms ease-in-out 0s;
 }
@@ -3963,7 +3963,7 @@ h6.h1 {
   }
 }
 .row {
-  margin-left: -7.5px;
+  margin-left: -25px;
   margin-right: -7.5px;
 }
 .col-lg-1,

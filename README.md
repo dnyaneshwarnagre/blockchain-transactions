@@ -4,7 +4,7 @@ In this app I called two public API's and display data into tables inside dashbo
 
 # Deployment 
 Deploying this app publicly I used [heroku] cloud platform.
-# Heroku Installation 
+### Heroku Installation 
 ##### Required node and git install on your system. 
 ** Follow [heroku installtion]  steps.
 

@@ -7,6 +7,8 @@ Deploying this app publicly I used [heroku] cloud platform.
 # Heroku Installation 
 ##### Required node and git install on your system. 
 ** Follow [heroku installtion]  steps.
+
+
     - Create index.php file and add your index.html file inside this
     - This is one example :- ``` <?php header( 'Location: /index.html' ) ;  ?>```
     - Deploying your app into heroku firstly [create your account] with heroku
